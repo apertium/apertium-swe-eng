@@ -1,0 +1,21 @@
+* text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/INSTALL -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/ap_include.am -text
+/apertium-swe-eng.eng-swe.lrx -text
+/apertium-swe-eng.eng-swe.t1x -text
+/apertium-swe-eng.eng-swe.t2x -text
+/apertium-swe-eng.eng-swe.t3x -text
+/apertium-swe-eng.swe-eng.dix -text
+/apertium-swe-eng.swe-eng.lrx -text
+/apertium-swe-eng.swe-eng.t1x -text
+/apertium-swe-eng.swe-eng.t2x -text
+/apertium-swe-eng.swe-eng.t3x -text
+/autogen.sh -text
+/configure.ac -text
+/modes.xml -text
