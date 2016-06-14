@@ -1,22 +1,42 @@
 <rules>
-  <!-- 
-    This rule chooses "energía" as the translation of "power" when it is preceded by "wind". 
-    Add your own rules within <rule> here, using the resources below as a guide 
-  -->
 
-  <rule>
-    <match lemma="wind"/>
-    <match lemma="power" tags="n.*">
-      <select lemma="energía" tags="n.*"/>
-    </match>
+  <rule weight="1.0">
+    <match lemma="med" tags="pr"><select lemma="with" tags="pr"/></match>
   </rule>
+  <rule weight="1.0">
+    <match lemma="dit" tags="adv"><select lemma="there" tags="adv"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="bara" tags="adv"><select lemma="only" tags="adv"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="aldrig" tags="adv"/>
+    <match lemma="mycket" tags="adv.comp"><select lemma="again" tags="adv"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="vanlig" tags="adj.*"><select lemma="normal" tags="adj.*"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="säng" tags="n.*"><select lemma="bed" tags="n.*"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="ta" tags="vblex.*"><select lemma="take" tags="vblex.*"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="som" tags="pr"><select lemma="like" tags="pr"/></match>
+    <match tags="prn.*.*.*.*.acc"/>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="följa" tags="vblex.*"><select lemma="follow" tags="vblex.*"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="sticka" tags="vblex.*"><select lemma="fuck" tags="vblex.*"/></match>
+    <match lemma="iväg" tags="adv"><select lemma="off" tags="adv"/></match>
+  </rule>
+  <rule weight="1.0">
+    <match lemma="utanpå" tags="adv"><select lemma="outside" tags="adv"/></match>
+    <match lemma="och"/>
+    <match lemma="innantill" tags="adv"><select lemma="in" tags="adv"/></match>
+  </rule>
+
 </rules>
-
-<!-- 
-Resources: 
-    http://wiki.apertium.org/wiki/How_to_get_started_with_lexical_selection_rules
-    http://wiki.apertium.org/wiki/Constraint-based_lexical_selection
-    http://wiki.apertium.org/wiki/Lexical_selection
-    http://wiki.apertium.org/wiki/Learning_rules_from_parallel_and_non-parallel_corpora
--->
-

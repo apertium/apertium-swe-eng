@@ -5,7 +5,7 @@
 
   <mode name="swe-eng" install="yes">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
 
@@ -47,7 +47,7 @@
 
   <mode name="swe-eng-dgen" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
 
@@ -82,7 +82,7 @@
 
   <mode name="swe-eng-morph" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
     </pipeline>
@@ -90,7 +90,7 @@
 
   <mode name="swe-eng-disam" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
@@ -102,7 +102,7 @@
 
   <mode name="swe-eng-tagger" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
 
@@ -118,7 +118,7 @@
 
   <mode name="swe-eng-pretransfer" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
 
@@ -135,7 +135,7 @@
 
   <mode name="swe-eng-biltrans" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
 
@@ -155,7 +155,7 @@
 
   <mode name="swe-eng-lex" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
 
@@ -178,7 +178,7 @@
 
   <mode name="swe-eng-transfer" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
 
@@ -205,7 +205,7 @@
 
   <mode name="swe-eng-interchunk" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
 
@@ -236,7 +236,7 @@
 
   <mode name="swe-eng-postchunk" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="swe-eng.automorf.bin"/>
       </program>
 
@@ -273,7 +273,7 @@
 
   <mode name="eng-swe" install="yes">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
 
@@ -315,7 +315,7 @@
 
   <mode name="eng-swe-dgen" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
 
@@ -350,7 +350,7 @@
 
   <mode name="eng-swe-morph" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
     </pipeline>
@@ -358,7 +358,7 @@
 
   <mode name="eng-swe-disam" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
       <program name="cg-conv -a"/>
@@ -370,7 +370,7 @@
 
   <mode name="eng-swe-tagger" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
 
@@ -386,7 +386,7 @@
 
   <mode name="eng-swe-pretransfer" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
 
@@ -403,7 +403,7 @@
 
   <mode name="eng-swe-biltrans" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
 
@@ -423,7 +423,7 @@
 
   <mode name="eng-swe-lex" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
 
@@ -446,7 +446,7 @@
 
   <mode name="eng-swe-transfer" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
 
@@ -470,7 +470,7 @@
 
   <mode name="eng-swe-interchunk" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
 
@@ -498,7 +498,7 @@
 
   <mode name="eng-swe-postchunk" install="no">
     <pipeline>
-      <program name="lt-proc -w">
+      <program name="lt-proc -e -w">
         <file name="eng-swe.automorf.bin"/>
       </program>
 
