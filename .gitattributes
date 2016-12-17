@@ -19,3 +19,5 @@
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text
+texts/story.eng.txt -text
+texts/story.swe.txt -text
