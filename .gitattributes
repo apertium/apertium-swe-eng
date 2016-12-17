@@ -18,6 +18,7 @@
 /apertium-swe-eng.swe-eng.t3x -text
 /autogen.sh -text
 /configure.ac -text
+dev/apertium-sw-en.sw-en.dix -text
 dev/apertium-sw-en.sw.dix -text
 /modes.xml -text
 texts/story.eng.txt -text
