@@ -23,6 +23,9 @@
     <match lemma="ta" tags="vblex.*"><select lemma="take" tags="vblex.*"/></match>
   </rule>
   <rule weight="1.0">
+    <match lemma="minsann" tags="adv"><select lemma="truly" tags="adv"/></match>
+  </rule>
+  <rule weight="1.0">
     <match lemma="som" tags="pr"><select lemma="like" tags="pr"/></match>
     <match tags="prn.*.*.*.*.acc"/>
   </rule>
