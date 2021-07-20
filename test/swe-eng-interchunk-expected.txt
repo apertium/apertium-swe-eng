@@ -1,0 +1,18 @@
+[2dVp3zB-aRDe#0] ^default<default>{^-<det><qnt><un><pl>$}$^unknown<unknown>{^*dlaroe$}$^default<default>{^-<det><qnt><un><pl>$}$^unknown<unknown>{^*orge$}$
+[/2dVp3zB-aRDe]
+[B-g-P38dIdcs#0] ^default<default>{^»<rquot>$}$
+[/B-g-P38dIdcs]
+[C0EChnaEiYQ8#0] ^default<default>{^1%<det><qnt><un><sg>$}$
+[/C0EChnaEiYQ8]
+[Muuxq8wcYBzr#0] ^default<default>{^(<lpar>$}$
+[/Muuxq8wcYBzr]
+[Nrf4Si4GFS05#0] ^unknown<unknown>{^*sämligmopde$}$
+[/Nrf4Si4GFS05]
+[QbgF6nrAFOI1#0] ^sent<SENT>{^;<sent>$}$
+[/QbgF6nrAFOI1]
+[jTP1IKPEzvgN#0] ^default<default>{^'<apos>$}$
+[/jTP1IKPEzvgN]
+[poEKQq2qTVXt#0] ^default<default>{^«<lquot>$}$
+[/poEKQq2qTVXt]
+[q7LdXzpE3Y8a#0] ^unknown<unknown>{^*ullddegäeån$}$
+[/q7LdXzpE3Y8a]

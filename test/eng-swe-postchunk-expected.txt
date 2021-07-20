@@ -1,0 +1,18 @@
+[Muuxq8wcYBzr#0] ^(<lpar>$
+[/Muuxq8wcYBzr]
+[PpndEILPuA2N#0] ^bli<vblex><pres>$ ^inte<adv>$
+[/PpndEILPuA2N]
+[Rxqcbdo0JyBJ#0] ^bli<vblex><past><p1><sg>$ ^inte<adv>$
+[/Rxqcbdo0JyBJ]
+[VIIYzDtYUE6s#0] ^ha<vblex><pres><p3><sg>$
+[/VIIYzDtYUE6s]
+[iNH5irIl3B20#0] ^'<apos>$
+[/iNH5irIl3B20]
+[o3Pxn5SHUmnB#0] ^måste<vblex><inf>$ ^inte<adv>$
+[/o3Pxn5SHUmnB]
+[qTg_0ZILEzah#0] ^bli<vblex><past>$ ^inte<adv>$
+[/qTg_0ZILEzah]
+[ul7FHQekrA6V#0] ^)<rpar>$
+[/ul7FHQekrA6V]
+[wsF3N8PAWMkt#0] ^behöva<vblex><inf>$ ^inte<adv>$
+[/wsF3N8PAWMkt]

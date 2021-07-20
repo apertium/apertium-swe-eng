@@ -1,0 +1,18 @@
+[Muuxq8wcYBzr#0] ^(<lpar>/(<lpar>$
+[/Muuxq8wcYBzr]
+[PpndEILPuA2N#0] ^be<vbser><pres>/bli<vblex><pres>/vara¹<vblex><pres>$ ^not<adv>/inte<adv>$
+[/PpndEILPuA2N]
+[Rxqcbdo0JyBJ#0] ^be<vbser><past><p1><sg>/bli<vblex><past><p1><sg>/vara¹<vblex><past><p1><sg>$ ^not<adv>/inte<adv>$
+[/Rxqcbdo0JyBJ]
+[VIIYzDtYUE6s#0] ^have<vbhaver><pres><p3><sg>/ha<vblex><pres><p3><sg>$
+[/VIIYzDtYUE6s]
+[iNH5irIl3B20#0] ^'<apos>/'<apos>$
+[/iNH5irIl3B20]
+[o3Pxn5SHUmnB#0] ^must<vbmod><inf>/måste<vblex><inf>$ ^not<adv>/inte<adv>$
+[/o3Pxn5SHUmnB]
+[qTg_0ZILEzah#0] ^be<vbser><past>/bli<vblex><past>/vara¹<vblex><past>$ ^not<adv>/inte<adv>$
+[/qTg_0ZILEzah]
+[ul7FHQekrA6V#0] ^)<rpar>/)<rpar>$
+[/ul7FHQekrA6V]
+[wsF3N8PAWMkt#0] ^need<vblex><inf>/behöva<vblex><inf>$ ^not<adv>/inte<adv>$
+[/wsF3N8PAWMkt]

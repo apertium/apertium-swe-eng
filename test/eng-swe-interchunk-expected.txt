@@ -1,0 +1,18 @@
+[Muuxq8wcYBzr#0] ^default<default>{^(<lpar>$}$
+[/Muuxq8wcYBzr]
+[PpndEILPuA2N#0] ^default<default>{^bli<vblex><pres>$}$ ^default<default>{^inte<adv>$}$
+[/PpndEILPuA2N]
+[Rxqcbdo0JyBJ#0] ^default<default>{^bli<vblex><past><p1><sg>$}$ ^default<default>{^inte<adv>$}$
+[/Rxqcbdo0JyBJ]
+[VIIYzDtYUE6s#0] ^default<default>{^ha<vblex><pres><p3><sg>$}$
+[/VIIYzDtYUE6s]
+[iNH5irIl3B20#0] ^default<default>{^'<apos>$}$
+[/iNH5irIl3B20]
+[o3Pxn5SHUmnB#0] ^default<default>{^måste<vblex><inf>$}$ ^default<default>{^inte<adv>$}$
+[/o3Pxn5SHUmnB]
+[qTg_0ZILEzah#0] ^default<default>{^bli<vblex><past>$}$ ^default<default>{^inte<adv>$}$
+[/qTg_0ZILEzah]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]
+[wsF3N8PAWMkt#0] ^default<default>{^behöva<vblex><inf>$}$ ^default<default>{^inte<adv>$}$
+[/wsF3N8PAWMkt]

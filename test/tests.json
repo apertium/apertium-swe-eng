@@ -1,0 +1,10 @@
+{
+    "eng-swe": {
+        "input": "eng-swe-input.txt",
+        "mode": "eng-swe"
+    },
+    "swe-eng": {
+        "input": "swe-eng-input.txt",
+        "mode": "swe-eng"
+    }
+}
